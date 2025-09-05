@@ -7,3 +7,7 @@ if(abdul_current_course == "Git"){
 } else {
     console.log("What course are you doing?")
 }
+
+const name = 'AbdulRasak';
+console.log(name);
+
